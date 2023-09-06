@@ -1,0 +1,27 @@
+.appbody{
+    display: flex;
+    border: 3px solid black;
+    margin: 30px 30px 30px 30px;
+    padding: 20px 25% 20px 25%;
+    flex-direction: column;
+    text-align: center;
+}
+
+.hname{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: aqua;
+    line-height: 0%;
+    
+}
+
+.tabname{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 30px 30px 30px;
+    padding: 20px 25% 20px 25%;
+    text-align: center;
+    background-color: aqua;
+
+}
